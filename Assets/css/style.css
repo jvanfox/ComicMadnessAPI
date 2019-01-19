@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    border-radius:25px;
+    background-image:url("../images/jumbo photo.jpg");
+    border-color: white 5px;
+    padding:25px;
+    margin:5px; 
+    color:white;
+    
+
+}
+
+
+.comic {
+    padding:25px;
+    margin:5px; 
+    background-color: blue;
+    color:white;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+#gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+#add {
+    float:right; 
+    margin:100px;
+}
+
+h4 {
+    color: white;
+    font-weight: bold;
+}
